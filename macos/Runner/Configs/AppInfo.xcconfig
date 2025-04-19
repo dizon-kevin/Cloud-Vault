@@ -8,7 +8,7 @@
 PRODUCT_NAME = cloud_vault
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.cloudVault
+PRODUCT_BUNDLE_IDENTIFIER = com.devops.cloud_vault
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.

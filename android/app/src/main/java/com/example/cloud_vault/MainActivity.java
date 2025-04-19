@@ -1,4 +1,4 @@
-package com.example.cloud_vault;
+package com.devops.cloud_vault;
 
 import io.flutter.embedding.android.FlutterActivity;
 
