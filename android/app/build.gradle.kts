@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.devops.cloud_vault"
+    namespace = "com.devops.cloudvault"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
     ndkVersion = flutter.ndkVersion
@@ -21,7 +21,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.devops.cloud_vault"
+        applicationId = "com.devops.cloudvault"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = System.getenv("CM_BUILD_ID")?.toInt()
